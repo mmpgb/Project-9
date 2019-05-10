@@ -1,5 +1,6 @@
 # Project-9
 C# Questions 1
+
 1.Namespaces are sued to organize and control classes and methods.https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/
 
 2.Value tupes are your int, char, and floats, holds and maintains direct data. Directly called. https://www.tutorialspoint.com/csharp/csharp_data_types.htm
